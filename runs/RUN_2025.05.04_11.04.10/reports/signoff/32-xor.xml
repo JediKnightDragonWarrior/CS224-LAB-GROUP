@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report-database>
+ <description>XOR /openlane/designs/projectweek2/runs/RUN_2025.05.04_11.04.10/results/signoff/lab2.gds vs. /openlane/designs/projectweek2/runs/RUN_2025.05.04_11.04.10/results/signoff/lab2.klayout.gds</description>
+ <original-file/>
+ <generator>drc: script='/openlane/scripts/klayout/xor.drc'</generator>
+ <top-cell>lab2</top-cell>
+ <tags>
+ </tags>
+ <categories>
+  <category>
+   <name>122/16</name>
+   <description>XOR data for layer 122/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>235/4</name>
+   <description>XOR data for layer 235/4</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>236/0</name>
+   <description>XOR data for layer 236/0</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/16</name>
+   <description>XOR data for layer 64/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/20</name>
+   <description>XOR data for layer 64/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/5</name>
+   <description>XOR data for layer 64/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/59</name>
+   <description>XOR data for layer 64/59</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>65/20</name>
+   <description>XOR data for layer 65/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>65/44</name>
+   <description>XOR data for layer 65/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>66/20</name>
+   <description>XOR data for layer 66/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>66/44</name>
+   <description>XOR data for layer 66/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/16</name>
+   <description>XOR data for layer 67/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/20</name>
+   <description>XOR data for layer 67/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/44</name>
+   <description>XOR data for layer 67/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/5</name>
+   <description>XOR data for layer 67/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/16</name>
+   <description>XOR data for layer 68/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/20</name>
+   <description>XOR data for layer 68/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/44</name>
+   <description>XOR data for layer 68/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/5</name>
+   <description>XOR data for layer 68/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>69/20</name>
+   <description>XOR data for layer 69/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>69/44</name>
+   <description>XOR data for layer 69/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>69/5</name>
+   <description>XOR data for layer 69/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/16</name>
+   <description>XOR data for layer 70/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/20</name>
+   <description>XOR data for layer 70/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/44</name>
+   <description>XOR data for layer 70/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/5</name>
+   <description>XOR data for layer 70/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/16</name>
+   <description>XOR data for layer 71/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/20</name>
+   <description>XOR data for layer 71/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/44</name>
+   <description>XOR data for layer 71/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/5</name>
+   <description>XOR data for layer 71/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>72/16</name>
+   <description>XOR data for layer 72/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>72/20</name>
+   <description>XOR data for layer 72/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>72/5</name>
+   <description>XOR data for layer 72/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>78/44</name>
+   <description>XOR data for layer 78/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>81/4</name>
+   <description>XOR data for layer 81/4</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>83/44</name>
+   <description>XOR data for layer 83/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>93/44</name>
+   <description>XOR data for layer 93/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>94/20</name>
+   <description>XOR data for layer 94/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>95/20</name>
+   <description>XOR data for layer 95/20</description>
+   <categories>
+   </categories>
+  </category>
+ </categories>
+ <cells>
+  <cell>
+   <name>lab2</name>
+   <variant/>
+   <layout-name/>
+   <references>
+   </references>
+  </cell>
+ </cells>
+ <items>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_000_',r0 21.85,41.82)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_002_',r0 17.25,57.12)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_005_',r0 20.93,59.5)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_009_',r0 10.35,48.62)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_011_',r0 20.93,38.08)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_014_',r0 24.61,36.38)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_015_',r0 21.39,34.85)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_022_',r0 13.11,15.81)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_023_',r0 18.17,15.98)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_028_',r0 27.37,18.53)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_031_',r0 37.95,24.395)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_032_',r0 40.71,25.755)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_033_',r0 40.71,18.53)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_035_',r0 42.09,15.98)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_038_',r0 16.33,18.19)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_041_',r0 23.69,16.66)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_042_',r0 30.13,16.32)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_044_',r0 25.99,16.49)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_048_',r0 38.41,18.53)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_049_',r0 37.03,18.53)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_052_',r0 34.27,15.98)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_054_',r0 25.53,60.01)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_055_',r0 28.29,59.5)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_058_',r0 32.89,60.18)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_065_',r0 49.45,56.44)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_068_',r0 29.21,52.19)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_073_',r0 25.07,40.46)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_081_',r0 50.37,32.47)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_082_',r0 19.55,37.74)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_083_',r0 22.31,35.19)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_090_',r0 12.65,23.63)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_091_',r0 45.08,42.33)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_092_',r0 9.89,59.16)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_096_',r0 34.73,46.07)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_105_',r0 34.73,40.545)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_108_',r0 37.49,36.21)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_109_',r0 37.49,32.13)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_113_',r0 43.93,46.75)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_114_',r0 19.55,54.57)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_118_',r0 44.85,51.34)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_120_',r0 48.53,48.62)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_124_',r0 42.09,57.46)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_126_',r0 51.29,57.63)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_127_',r0 46.69,45.73)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_130_',r0 43.47,30.77)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_132_',r0 42.09,32.98)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_136_',r0 42.55,29.41)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_138_',r0 46.69,26.69)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_140_',r0 12.19,64.175)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_141_',r0 27.37,34.085)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_143_',r0 14.95,34.085)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_144_',r0 11.27,65.62)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_150_',r0 13.57,60.18)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_151_',r0 10.35,41.99)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_153_',r0 19.09,25.16)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_156_',r0 21.85,24.99)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_160_',r0 19.55,46.58)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net1',r0 8.05,32.64)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net12',r0 9.89,50.15)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net17',r0 16.79,64.94)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net18',r0 14.03,63.58)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net2',r0 36.57,31.11)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net20',r0 43.01,64.94)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net24',r0 51.29,35.87)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net4',r0 8.05,18.87)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net7',r0 19.55,16.235)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net8',r0 31.97,16.405)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('out[0]',r0 52.21,69.955)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('out[2]',r0 52.21,53.635)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>lab2</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('out[4]',r0 52.21,35.105)</value>
+   </values>
+  </item>
+ </items>
+</report-database>
